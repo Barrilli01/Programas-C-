@@ -1,0 +1,10 @@
+E:\Projetos_Programação\C#\Inicial\Primeiro\bin\Debug\Primeiro.exe.config
+E:\Projetos_Programação\C#\Inicial\Primeiro\bin\Debug\Primeiro.exe
+E:\Projetos_Programação\C#\Inicial\Primeiro\bin\Debug\Primeiro.pdb
+E:\Projetos_Programação\C#\Inicial\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\Inicial\Primeiro\obj\Debug\Primeiro.Form1.resources
+E:\Projetos_Programação\C#\Inicial\Primeiro\obj\Debug\Primeiro.Properties.Resources.resources
+E:\Projetos_Programação\C#\Inicial\Primeiro\obj\Debug\Primeiro.csproj.GenerateResource.cache
+E:\Projetos_Programação\C#\Inicial\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\Inicial\Primeiro\obj\Debug\Primeiro.exe
+E:\Projetos_Programação\C#\Inicial\Primeiro\obj\Debug\Primeiro.pdb

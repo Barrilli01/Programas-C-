@@ -1,0 +1,10 @@
+E:\Projetos_Programação\C#\Inicial\Início1\bin\Debug\Início1.exe.config
+E:\Projetos_Programação\C#\Inicial\Início1\bin\Debug\Início1.exe
+E:\Projetos_Programação\C#\Inicial\Início1\bin\Debug\Início1.pdb
+E:\Projetos_Programação\C#\Inicial\Início1\obj\Debug\TransfTemp.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\Inicial\Início1\obj\Debug\Início1.Form1.resources
+E:\Projetos_Programação\C#\Inicial\Início1\obj\Debug\Início1.Properties.Resources.resources
+E:\Projetos_Programação\C#\Inicial\Início1\obj\Debug\TransfTemp.csproj.GenerateResource.cache
+E:\Projetos_Programação\C#\Inicial\Início1\obj\Debug\TransfTemp.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\Inicial\Início1\obj\Debug\Início1.exe
+E:\Projetos_Programação\C#\Inicial\Início1\obj\Debug\Início1.pdb

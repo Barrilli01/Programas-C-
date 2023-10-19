@@ -1,0 +1,9 @@
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\bin\Debug\Multiplicação de matrizes.exe.config
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\bin\Debug\Multiplicação de matrizes.exe
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\bin\Debug\Multiplicação de matrizes.pdb
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\obj\Debug\Multiplicação de matrizes.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\obj\Debug\Multiplicação_de_matrizes.Properties.Resources.resources
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\obj\Debug\Multiplicação de matrizes.csproj.GenerateResource.cache
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\obj\Debug\Multiplicação de matrizes.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\obj\Debug\Multiplicação de matrizes.exe
+E:\Projetos_Programação\C#\Inicial\Multiplicação de matrizes\obj\Debug\Multiplicação de matrizes.pdb

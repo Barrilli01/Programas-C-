@@ -1,0 +1,4 @@
+E:\Projetos_Programação\C#\Inicial\Udemy1\obj\Debug\Udemy1.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\Inicial\Udemy1\obj\Debug\Udemy1.Properties.Resources.resources
+E:\Projetos_Programação\C#\Inicial\Udemy1\obj\Debug\Udemy1.csproj.GenerateResource.cache
+E:\Projetos_Programação\C#\Inicial\Udemy1\obj\Debug\Udemy1.csproj.CoreCompileInputs.cache
