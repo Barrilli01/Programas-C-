@@ -1,0 +1,7 @@
+E:\Projetos_Programação\C#\Calculadora\Calculadora\CalculadoraComplexa\bin\Debug\CalculadoraComplexa.exe.config
+E:\Projetos_Programação\C#\Calculadora\Calculadora\CalculadoraComplexa\bin\Debug\CalculadoraComplexa.exe
+E:\Projetos_Programação\C#\Calculadora\Calculadora\CalculadoraComplexa\bin\Debug\CalculadoraComplexa.pdb
+E:\Projetos_Programação\C#\Calculadora\Calculadora\CalculadoraComplexa\obj\Debug\CalculadoraComplexa.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\Calculadora\Calculadora\CalculadoraComplexa\obj\Debug\CalculadoraComplexa.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\Calculadora\Calculadora\CalculadoraComplexa\obj\Debug\CalculadoraComplexa.exe
+E:\Projetos_Programação\C#\Calculadora\Calculadora\CalculadoraComplexa\obj\Debug\CalculadoraComplexa.pdb
