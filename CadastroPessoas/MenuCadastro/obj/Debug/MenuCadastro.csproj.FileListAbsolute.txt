@@ -1,0 +1,7 @@
+E:\Projetos_Programação\C#\Calculadora\CadastroPessoas\MenuCadastro\bin\Debug\MenuCadastro.exe.config
+E:\Projetos_Programação\C#\Calculadora\CadastroPessoas\MenuCadastro\bin\Debug\MenuCadastro.exe
+E:\Projetos_Programação\C#\Calculadora\CadastroPessoas\MenuCadastro\bin\Debug\MenuCadastro.pdb
+E:\Projetos_Programação\C#\Calculadora\CadastroPessoas\MenuCadastro\obj\Debug\MenuCadastro.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\Calculadora\CadastroPessoas\MenuCadastro\obj\Debug\MenuCadastro.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\Calculadora\CadastroPessoas\MenuCadastro\obj\Debug\MenuCadastro.exe
+E:\Projetos_Programação\C#\Calculadora\CadastroPessoas\MenuCadastro\obj\Debug\MenuCadastro.pdb
