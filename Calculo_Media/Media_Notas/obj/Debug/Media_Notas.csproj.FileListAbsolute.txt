@@ -1,0 +1,7 @@
+E:\Projetos_Programação\C#\Calculadora\Calculo_Media\Media_Notas\bin\Debug\Media_Notas.exe.config
+E:\Projetos_Programação\C#\Calculadora\Calculo_Media\Media_Notas\bin\Debug\Media_Notas.exe
+E:\Projetos_Programação\C#\Calculadora\Calculo_Media\Media_Notas\bin\Debug\Media_Notas.pdb
+E:\Projetos_Programação\C#\Calculadora\Calculo_Media\Media_Notas\obj\Debug\Media_Notas.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\Calculadora\Calculo_Media\Media_Notas\obj\Debug\Media_Notas.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\Calculadora\Calculo_Media\Media_Notas\obj\Debug\Media_Notas.exe
+E:\Projetos_Programação\C#\Calculadora\Calculo_Media\Media_Notas\obj\Debug\Media_Notas.pdb
