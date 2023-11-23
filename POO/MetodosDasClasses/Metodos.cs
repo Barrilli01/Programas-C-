@@ -8,6 +8,7 @@ namespace MetodosDasClasses
 {
     internal class Metodos
     {
+        #region Métodos Simples
         // Métodos simples
 
         public void MostraNome(string nome)
@@ -20,6 +21,7 @@ namespace MetodosDasClasses
             string msg = hora < 12 ? "Bom dia " + nome : "Boa tarde " + nome;
             Console.WriteLine(msg);
         }
+        #endregion
 
         #region Métodos Compostos
         // Métodos compostos
