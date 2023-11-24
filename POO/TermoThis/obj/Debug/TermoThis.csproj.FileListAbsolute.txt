@@ -1,0 +1,7 @@
+E:\Projetos_Programação\C#\POO\TermoThis\bin\Debug\TermoThis.exe.config
+E:\Projetos_Programação\C#\POO\TermoThis\bin\Debug\TermoThis.exe
+E:\Projetos_Programação\C#\POO\TermoThis\bin\Debug\TermoThis.pdb
+E:\Projetos_Programação\C#\POO\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\POO\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\POO\TermoThis\obj\Debug\TermoThis.exe
+E:\Projetos_Programação\C#\POO\TermoThis\obj\Debug\TermoThis.pdb
