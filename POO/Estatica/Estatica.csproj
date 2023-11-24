@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{422D88FE-00C0-4177-95FC-083CD712A404}</ProjectGuid>
+    <ProjectGuid>{32BACFBD-43AB-4A5A-87C2-AC1C07C63F07}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MetodoConstrutor</RootNamespace>
-    <AssemblyName>MetodoConstrutor</AssemblyName>
+    <RootNamespace>Estatica</RootNamespace>
+    <AssemblyName>Estatica</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pessoa.cs" />
+    <Compile Include="Matematica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

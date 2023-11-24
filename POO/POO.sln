@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermoThis", "TermoThis\Term
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDelegate", "TipoDelegate\TipoDelegate.csproj", "{DE1F750A-9FED-48AF-98A1-F3F5B80268B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoConstrutor", "MetodoConstrutor\MetodoConstrutor.csproj", "{422D88FE-00C0-4177-95FC-083CD712A404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estatica", "Estatica\Estatica.csproj", "{32BACFBD-43AB-4A5A-87C2-AC1C07C63F07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{DE1F750A-9FED-48AF-98A1-F3F5B80268B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1F750A-9FED-48AF-98A1-F3F5B80268B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE1F750A-9FED-48AF-98A1-F3F5B80268B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422D88FE-00C0-4177-95FC-083CD712A404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422D88FE-00C0-4177-95FC-083CD712A404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422D88FE-00C0-4177-95FC-083CD712A404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422D88FE-00C0-4177-95FC-083CD712A404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BACFBD-43AB-4A5A-87C2-AC1C07C63F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BACFBD-43AB-4A5A-87C2-AC1C07C63F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BACFBD-43AB-4A5A-87C2-AC1C07C63F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BACFBD-43AB-4A5A-87C2-AC1C07C63F07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+E:\Projetos_Programação\C#\POO\Estatica\bin\Debug\Estatica.exe.config
+E:\Projetos_Programação\C#\POO\Estatica\bin\Debug\Estatica.exe
+E:\Projetos_Programação\C#\POO\Estatica\bin\Debug\Estatica.pdb
+E:\Projetos_Programação\C#\POO\Estatica\obj\Debug\Estatica.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\POO\Estatica\obj\Debug\Estatica.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\POO\Estatica\obj\Debug\Estatica.exe
+E:\Projetos_Programação\C#\POO\Estatica\obj\Debug\Estatica.pdb
