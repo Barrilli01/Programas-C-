@@ -23,6 +23,8 @@ namespace Estatica
             */
             #endregion
 
+            #region Pessoa
+            /*
             Pessoa.maioridade = 21;
             Pessoa p1 = new Pessoa();
 
@@ -31,6 +33,8 @@ namespace Estatica
 
             p1.Apresentar(p1.nome);
             Console.WriteLine(" e tenho " + p1.idade + " anos");
+            */
+            #endregion
 
             Console.ReadKey();
         }
