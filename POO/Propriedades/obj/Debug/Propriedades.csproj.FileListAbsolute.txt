@@ -1,0 +1,7 @@
+E:\Projetos_Programação\C#\POO\Propriedades\bin\Debug\Propriedades.exe.config
+E:\Projetos_Programação\C#\POO\Propriedades\bin\Debug\Propriedades.exe
+E:\Projetos_Programação\C#\POO\Propriedades\bin\Debug\Propriedades.pdb
+E:\Projetos_Programação\C#\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+E:\Projetos_Programação\C#\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+E:\Projetos_Programação\C#\POO\Propriedades\obj\Debug\Propriedades.exe
+E:\Projetos_Programação\C#\POO\Propriedades\obj\Debug\Propriedades.pdb
